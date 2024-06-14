@@ -1,0 +1,28 @@
+MASTER_PORT=$((RANDOM % 101 + 20000))
+cd open_clip/src
+torchrun --nproc_per_node 4 --master_port=$MASTER_PORT -m training.main \
+    --model roberta-RN50 \
+    --train-data ../datasets/imagenet-captions/laionet_thresh0.7_frac0.5_1628287.tsv \
+    --dataset-type csv \
+    --csv-img-key filepath \
+    --csv-caption-key caption \
+    --csv-separator '\t' \
+    --batch-size 256 \
+    --lr 0.001 \
+    --warmup 500 \
+    --epochs 32 \
+    --lock-text \
+    --lock-text-unlocked-layers 0 \
+    --lock-text-freeze-layer-norm \
+    --save-frequency 8 \
+    --zeroshot-frequency 1 \
+    --precision amp \
+    --use-bn-sync \
+    --workers 8 \
+    --imagenet-val ../datasets/imagenet/val/ \
+    --imagenet-v2 ../datasets/imagenetv2/ \
+    --frequency-file ../metadata/freqs/class_frequency_laionet_thresh0.7_frac0.5_ori.txt \
+    --imb_metrics \
+    --nc_metrics \
+    --logs ./logs \
+    --name RN50-lr_0.001-b_1024-e_32-p_amp-laionet_thresh0.7_frac0.5-freezetext_roberta

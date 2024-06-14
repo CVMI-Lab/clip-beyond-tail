@@ -1,0 +1,102 @@
+rose	1746434
+sunflower	403737
+magnolia	383506
+hibiscus	340047
+lotus lotus	254748
+poinsettia	247721
+azalea	194982
+daffodil	192703
+artichoke	185841
+carnation	129028
+marigold	126389
+geranium	98674
+camellia	97544
+water lily	88036
+snapdragon	87566
+buttercup	73361
+clematis	57715
+petunia	56106
+frangipani	51762
+wallflower	39501
+mallow	38148
+morning glory	37203
+bougainvillea	35706
+sweet pea	35543
+bird of paradise	31213
+watercress	29737
+columbine	26208
+foxglove	22334
+cyclamen	22151
+fritillary	21836
+anthurium	13678
+primula	12493
+tiger lily	9776
+bearded iris	7765
+pelargonium	7424
+grape hyacinth	6468
+bee balm	5232
+corn poppy	4340
+hippeastrum	4262
+gazania	3770
+yellow iris	3750
+red ginger	3506
+balloon flower	2954
+sweet william	2302
+gaura	2186
+black-eyed susan	2047
+canna lily	1992
+oxeye daisy	1872
+monkshood	1863
+blanket flower	1781
+globe thistle	1655
+common dandelion	1206
+trumpet creeper	887
+lenten rose	841
+toad lily	715
+peruvian lily	704
+bromelia	662
+wild pansy	660
+thorn apple	337
+tree mallow	261
+canterbury bells	77
+blackberry lily	12
+pink primrose	0
+hard-leaved pocket orchid	0
+english marigold	0
+moon orchid	0
+colt's foot	0
+king protea	0
+spear thistle	0
+globe-flower	0
+purple coneflower	0
+giant white arum lily	0
+fire lily	0
+pincushion flower	0
+prince of wales feathers	0
+stemless gentian	0
+garden phlox	0
+love in the mist	0
+mexican aster	0
+alpine sea holly	0
+ruby-lipped cattleya	0
+cape flower	0
+great masterwort	0
+siam tulip	0
+barbeton daisy	0
+sword lily	0
+bolero deep blue	0
+bishop of llandaff	0
+orange dahlia	0
+pink-yellow dahlia	0
+cautleya spicata	0
+japanese anemone	0
+silverbush	0
+californian poppy	0
+osteospermum	0
+spring crocus	0
+windflower	0
+tree poppy	0
+passion flower	0
+desert-rose	0
+ball moss	0
+mexican petunia	0

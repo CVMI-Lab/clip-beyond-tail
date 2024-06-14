@@ -1,0 +1,100 @@
+American robin	547
+Gila monster	435
+eastern hog-nosed snake	446
+garter snake	604
+green mamba	358
+European garden spider	608
+lorikeet	750
+goose	724
+rock crab	557
+fiddler crab	583
+American lobster	468
+little blue heron	566
+American coot	656
+Chihuahua	394
+Shih Tzu	486
+Papillon	249
+toy terrier	215
+Treeing Walker Coonhound	38
+English foxhound	29
+borzoi	494
+Saluki	362
+American Staffordshire Terrier	384
+Chesapeake Bay Retriever	679
+Vizsla	349
+Kuvasz	200
+Komondor	77
+Rottweiler	436
+Dobermann	263
+Boxer	493
+Great Dane	223
+Standard Poodle	384
+Mexican hairless dog (xoloitzcuintli)	58
+coyote	515
+African wild dog	276
+red fox	313
+tabby cat	574
+meerkat	525
+dung beetle	513
+stick insect	704
+leafhopper	847
+hare	386
+wild boar	269
+gibbon	550
+langur	617
+ambulance	270
+baluster / handrail	626
+bassinet	551
+boathouse	442
+poke bonnet	536
+bottle cap	672
+car wheel	493
+bell or wind chime	247
+movie theater	557
+cocktail shaker	214
+computer keyboard	560
+Dutch oven	701
+football helmet	647
+gas mask or respirator	418
+hard disk drive	402
+harmonica	431
+honeycomb	435
+clothes iron	420
+jeans	483
+lampshade	649
+laptop computer	665
+milk can	300
+mixing bowl	480
+modem	280
+moped	511
+graduation cap	584
+mousetrap	280
+obelisk	719
+park bench	528
+pedestal	210
+pickup truck	495
+pirate ship	331
+purse	460
+fishing casting reel	374
+rocking chair	295
+rotisserie	448
+safety pin	405
+sarong	335
+balaclava ski mask	272
+slide rule	150
+stretcher	352
+front curtain	351
+throne	302
+tile roof	757
+tripod	380
+hot tub	336
+vacuum cleaner	461
+window screen	550
+airplane wing	815
+cabbage	291
+cauliflower	570
+pineapple	560
+carbonara	580
+chocolate syrup	606
+gyromitra	100
+stinkhorn mushroom	457

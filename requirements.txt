@@ -1,0 +1,12 @@
+clip
+fsspec
+nltk>=3.8.1
+numpy>=1.26.4
+pandas>=1.5.3
+Pillow>=10.3.0
+timm>=0.9.8
+torch>=2.0.1
+torchvision>=0.15.2
+tqdm>=4.65.0
+transformers>=4.34.1
+webdataset>=0.2.62

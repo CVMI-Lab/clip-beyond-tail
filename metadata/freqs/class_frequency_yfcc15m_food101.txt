@@ -1,0 +1,101 @@
+ice cream	16597
+pizza	16583
+steak	5702
+oysters	4773
+hot dog	4586
+pancakes	4579
+chocolate cake	3549
+sushi	2933
+pho	2681
+waffles	2652
+cheesecake	2192
+tacos	2141
+donuts	1874
+dumplings	1738
+hamburger	1702
+fish and chips	1582
+apple pie	1523
+fried rice	1329
+scallops	1181
+french toast	1118
+mussels	992
+omelette	774
+ravioli	752
+chicken curry	706
+carrot cake	701
+nachos	660
+ramen	652
+spring rolls	647
+chocolate mousse	619
+bread pudding	596
+french fries	590
+pork chop	572
+garlic bread	565
+cheese plate	495
+pad thai	476
+cup cakes	470
+risotto	440
+club sandwich	386
+red velvet cake	369
+prime rib	359
+caesar salad	352
+clam chowder	347
+sashimi	347
+strawberry shortcake	346
+chicken wings	340
+panna cotta	325
+beet salad	303
+crab cakes	303
+peking duck	295
+onion rings	289
+creme brulee	288
+grilled salmon	285
+paella	276
+french onion soup	259
+lasagna	259
+greek salad	255
+hummus	255
+macaroni and cheese	242
+grilled cheese sandwich	240
+falafel	236
+eggs benedict	224
+guacamole	206
+macarons	196
+gnocchi	194
+breakfast burrito	183
+poutine	178
+tiramisu	178
+foie gras	176
+filet mignon	175
+pulled pork sandwich	174
+beignets	170
+frozen yogurt	166
+miso soup	151
+ceviche	137
+lobster bisque	126
+shrimp and grits	120
+bruschetta	113
+deviled eggs	113
+samosa	109
+seaweed salad	108
+hot and sour soup	107
+baklava	106
+churros	104
+gyoza	101
+edamame	100
+takoyaki	74
+escargots	70
+bibimbap	64
+spaghetti bolognese	59
+cannoli	46
+baby back ribs	41
+caprese salad	36
+tuna tartare	35
+fried calamari	34
+beef carpaccio	24
+croque madame	22
+huevos rancheros	18
+lobster roll sandwich	16
+chicken quesadilla	15
+beef tartare	12
+spaghetti carbonara	9

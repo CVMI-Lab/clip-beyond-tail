@@ -1,0 +1,1000 @@
+tench	219
+goldfish	405
+great white shark	673
+tiger shark	430
+hammerhead shark	503
+electric ray	222
+stingray	670
+rooster	592
+hen	619
+ostrich	542
+brambling	340
+goldfinch	729
+house finch	614
+junco	736
+indigo bunting	570
+American robin	544
+bulbul	592
+jay	654
+magpie	693
+chickadee	718
+American dipper	434
+kite (bird of prey)	399
+bald eagle	619
+vulture	643
+great grey owl	491
+fire salamander	412
+smooth newt	120
+eft	432
+spotted salamander	325
+axolotl	343
+American bullfrog	588
+tree frog	531
+tailed frog	95
+loggerhead sea turtle	548
+leatherback sea turtle	355
+mud turtle	246
+terrapin	463
+box turtle	550
+banded gecko	101
+green iguana	575
+Carolina anole	465
+desert grassland whiptail lizard	263
+agama	520
+frilled-necked lizard	239
+alligator lizard	391
+Gila monster	435
+European green lizard	605
+chameleon	148
+Komodo dragon	773
+Nile crocodile	459
+American alligator	582
+triceratops	516
+worm snake	265
+ring-necked snake	322
+eastern hog-nosed snake	443
+smooth green snake	688
+kingsnake	366
+garter snake	603
+water snake	465
+vine snake	277
+night snake	308
+boa constrictor	427
+African rock python	234
+Indian cobra	225
+green mamba	357
+sea snake	456
+Saharan horned viper	142
+eastern diamondback rattlesnake	344
+sidewinder rattlesnake	110
+trilobite	670
+harvestman	475
+scorpion	516
+yellow garden spider	516
+barn spider	265
+European garden spider	608
+southern black widow	648
+tarantula	673
+wolf spider	768
+tick	324
+centipede	590
+black grouse	79
+ptarmigan	467
+ruffed grouse	539
+prairie grouse	230
+peafowl	815
+quail	640
+partridge	275
+african grey parrot	650
+macaw	702
+sulphur-crested cockatoo	621
+lorikeet	748
+coucal	434
+bee eater	499
+hornbill	535
+hummingbird	676
+jacamar	192
+toucan	573
+duck	695
+red-breasted merganser	214
+goose	724
+black swan	521
+tusker	447
+echidna	599
+platypus	352
+wallaby	723
+koala	961
+wombat	413
+jellyfish	654
+sea anemone	472
+brain coral	586
+flatworm	434
+nematode	19
+conch	571
+snail	588
+slug	578
+sea slug	657
+chiton	480
+chambered nautilus	316
+Dungeness crab	685
+rock crab	553
+fiddler crab	581
+red king crab	451
+American lobster	468
+spiny lobster	544
+crayfish	696
+hermit crab	713
+isopod	184
+white stork	444
+black stork	213
+spoonbill	635
+flamingo	651
+little blue heron	561
+great egret	484
+bittern bird	539
+crane bird	786
+limpkin	384
+common gallinule	434
+American coot	654
+bustard	448
+ruddy turnstone	531
+dunlin	627
+common redshank	465
+dowitcher	434
+oystercatcher	599
+pelican	580
+king penguin	614
+albatross	517
+grey whale	226
+killer whale	314
+dugong	130
+sea lion	459
+Chihuahua	393
+Japanese Chin	11
+Maltese	571
+Pekingese	476
+Shih Tzu	473
+King Charles Spaniel	79
+Papillon	245
+toy terrier	210
+Rhodesian Ridgeback	355
+Afghan Hound	583
+Basset Hound	509
+Beagle	503
+Bloodhound	285
+Bluetick Coonhound	111
+Black and Tan Coonhound	18
+Treeing Walker Coonhound	37
+English foxhound	29
+Redbone Coonhound	295
+borzoi	491
+Irish Wolfhound	507
+Italian Greyhound	521
+Whippet	702
+Ibizan Hound	128
+Norwegian Elkhound	222
+Otterhound	10
+Saluki	355
+Scottish Deerhound	415
+Weimaraner	472
+Staffordshire Bull Terrier	296
+American Staffordshire Terrier	361
+Bedlington Terrier	180
+Border Terrier	679
+Kerry Blue Terrier	107
+Irish Terrier	443
+Norfolk Terrier	210
+Norwich Terrier	210
+Yorkshire Terrier	397
+Wire Fox Terrier	17
+Lakeland Terrier	246
+Sealyham Terrier	26
+Airedale Terrier	427
+Cairn Terrier	605
+Australian Terrier	378
+Dandie Dinmont Terrier	181
+Boston Terrier	568
+Miniature Schnauzer	561
+Giant Schnauzer	294
+Standard Schnauzer	112
+Scottish Terrier	539
+Tibetan Terrier	155
+Australian Silky Terrier	853
+Soft-coated Wheaten Terrier	201
+West Highland White Terrier	411
+Lhasa Apso	665
+Flat-Coated Retriever	415
+Curly-coated Retriever	56
+Golden Retriever	327
+Labrador Retriever	403
+Chesapeake Bay Retriever	679
+German Shorthaired Pointer	111
+Vizsla	336
+English Setter	373
+Irish Setter	299
+Gordon Setter	228
+Brittany dog	305
+Clumber Spaniel	149
+English Springer Spaniel	626
+Welsh Springer Spaniel	199
+Cocker Spaniel	476
+Sussex Spaniel	27
+Irish Water Spaniel	86
+Kuvasz	200
+Schipperke	561
+Groenendael dog	186
+Malinois	517
+Briard	374
+Australian Kelpie	463
+Komondor	75
+Old English Sheepdog	333
+Shetland Sheepdog	583
+collie	489
+Border Collie	228
+Bouvier des Flandres dog	185
+Rottweiler	429
+German Shepherd Dog	322
+Dobermann	263
+Miniature Pinscher	568
+Greater Swiss Mountain Dog	326
+Bernese Mountain Dog	555
+Appenzeller Sennenhund	286
+Entlebucher Sennenhund	28
+Boxer	491
+Bullmastiff	230
+Tibetan Mastiff	227
+French Bulldog	633
+Great Dane	222
+St. Bernard	296
+husky	329
+Alaskan Malamute	483
+Siberian Husky	289
+Dalmatian	681
+Affenpinscher	97
+Basenji	176
+pug	481
+Leonberger	255
+Newfoundland dog	399
+Great Pyrenees dog	436
+Samoyed	730
+Pomeranian	427
+Chow Chow	466
+Keeshond	447
+brussels griffon	67
+Pembroke Welsh Corgi	667
+Cardigan Welsh Corgi	535
+Toy Poodle	533
+Miniature Poodle	258
+Standard Poodle	383
+Mexican hairless dog (xoloitzcuintli)	58
+grey wolf	446
+Alaskan tundra wolf	369
+red wolf or maned wolf	508
+coyote	514
+dingo	330
+dhole	101
+African wild dog	275
+hyena	603
+red fox	313
+kit fox	278
+Arctic fox	313
+grey fox	361
+tabby cat	573
+tiger cat	729
+Persian cat	615
+Siamese cat	651
+Egyptian Mau	287
+cougar	608
+lynx	552
+leopard	558
+snow leopard	708
+jaguar	533
+lion	638
+tiger	456
+cheetah	529
+brown bear	416
+American black bear	562
+polar bear	496
+sloth bear	599
+mongoose	644
+meerkat	525
+tiger beetle	467
+ladybug	724
+ground beetle	415
+longhorn beetle	347
+leaf beetle	646
+dung beetle	513
+rhinoceros beetle	515
+weevil	734
+fly	709
+bee	653
+ant	671
+grasshopper	670
+cricket insect	668
+stick insect	702
+cockroach	551
+praying mantis	711
+cicada	663
+leafhopper	843
+lacewing	673
+dragonfly	580
+damselfly	505
+red admiral butterfly	740
+ringlet butterfly	445
+monarch butterfly	749
+small white butterfly	616
+sulphur butterfly	446
+gossamer-winged butterfly	725
+starfish	566
+sea urchin	697
+sea cucumber	693
+cottontail rabbit	466
+hare	386
+Angora rabbit	441
+hamster	533
+porcupine	476
+fox squirrel	190
+marmot	612
+beaver	332
+guinea pig	732
+common sorrel horse	339
+zebra	581
+pig	425
+wild boar	268
+warthog	612
+hippopotamus	656
+ox	428
+water buffalo	636
+bison	616
+ram (adult male sheep)	621
+bighorn sheep	483
+Alpine ibex	364
+hartebeest	252
+impala (antelope)	481
+gazelle	465
+arabian camel	332
+llama	624
+weasel	387
+mink	294
+European polecat	297
+black-footed ferret	437
+otter	630
+skunk	412
+badger	468
+armadillo	388
+three-toed sloth	305
+orangutan	670
+gorilla	673
+chimpanzee	640
+gibbon	542
+siamang	575
+guenon	357
+patas monkey	352
+baboon	576
+macaque	606
+langur	615
+black-and-white colobus	722
+proboscis monkey	358
+marmoset	694
+white-headed capuchin	500
+howler monkey	617
+titi monkey	250
+Geoffroy's spider monkey	712
+common squirrel monkey	621
+ring-tailed lemur	680
+indri	264
+Asian elephant	474
+African bush elephant	706
+red panda	682
+giant panda	730
+snoek fish	104
+eel	504
+silver salmon	434
+rock beauty fish	95
+clownfish	688
+sturgeon	320
+gar fish	268
+lionfish	667
+pufferfish	489
+abacus	574
+abaya	294
+academic gown	152
+accordion	515
+acoustic guitar	578
+aircraft carrier	327
+airliner	472
+airship	315
+altar	561
+ambulance	270
+amphibious vehicle	412
+analog clock	233
+apiary	593
+apron	466
+trash can	545
+assault rifle	326
+backpack	320
+bakery	604
+balance beam	328
+balloon	361
+ballpoint pen	384
+Band-Aid	412
+banjo	560
+baluster / handrail	615
+barbell	675
+barber chair	316
+barbershop	614
+barn	721
+barometer	330
+barrel	501
+wheelbarrow	571
+baseball	387
+basketball	432
+bassinet	548
+bassoon	358
+swimming cap	378
+bath towel	405
+bathtub	324
+station wagon	302
+lighthouse	499
+beaker	150
+military hat (bearskin or shako)	238
+beer bottle	609
+beer glass	509
+bell tower	502
+baby bib	631
+tandem bicycle	397
+bikini	267
+ring binder	264
+binoculars	454
+birdhouse	666
+boathouse	441
+bobsleigh	403
+bolo tie	109
+poke bonnet	528
+bookcase	467
+bookstore	671
+bottle cap	662
+hunting bow	361
+bow tie	522
+brass memorial plaque	817
+bra	203
+breakwater	740
+breastplate	228
+broom	400
+bucket	473
+buckle	372
+bulletproof vest	25
+high-speed train	630
+butcher shop	724
+taxicab	571
+cauldron	351
+candle	390
+cannon	569
+canoe	392
+can opener	252
+cardigan	700
+car mirror	692
+carousel	441
+tool kit	192
+cardboard box / carton	308
+car wheel	492
+automated teller machine	560
+cassette	257
+cassette player	215
+castle	601
+catamaran	482
+CD player	407
+cello	474
+mobile phone	459
+chain	403
+chain-link fence	718
+chain mail	459
+chainsaw	443
+storage chest	373
+chiffonier	92
+bell or wind chime	245
+china cabinet	430
+Christmas stocking	703
+church	529
+movie theater	557
+cleaver	200
+cliff dwelling	526
+cloak	187
+clogs	369
+cocktail shaker	211
+coffee mug	484
+coffeemaker	451
+spiral or coil	551
+combination lock	311
+computer keyboard	552
+candy store	578
+container ship	569
+convertible	481
+corkscrew	385
+cornet	431
+cowboy boot	456
+cowboy hat	581
+cradle	289
+construction crane	361
+crash helmet	438
+crate	439
+infant bed	421
+Crock Pot	332
+croquet ball	438
+crutch	525
+cuirass	320
+dam	543
+desk	383
+desktop computer	337
+rotary dial telephone	497
+diaper	406
+digital clock	371
+digital watch	231
+dining table	421
+dishcloth	732
+dishwasher	611
+disc brake	402
+dock	530
+dog sled	504
+dome	563
+doormat	497
+drilling rig	309
+drum	520
+drumstick	454
+dumbbell	328
+Dutch oven	700
+electric fan	510
+electric guitar	239
+electric locomotive	351
+entertainment center	316
+envelope	448
+espresso machine	211
+face powder	135
+feather boa	602
+filing cabinet	468
+fireboat	578
+fire truck	515
+fire screen	130
+flagpole	643
+flute	461
+folding chair	421
+football helmet	642
+forklift	321
+fountain	638
+fountain pen	514
+four-poster bed	309
+freight car	680
+French horn	529
+frying pan	444
+fur coat	403
+garbage truck	330
+gas mask or respirator	412
+gas pump	641
+goblet	458
+go-kart	421
+golf ball	470
+golf cart	568
+gondola	536
+gong	209
+gown	210
+grand piano	654
+greenhouse	689
+radiator grille	540
+grocery store	623
+guillotine	388
+hair clip	172
+hair spray	288
+half-track	372
+hammer	409
+hamper	249
+hair dryer	468
+hand-held computer	7
+handkerchief	545
+hard disk drive	400
+harmonica	430
+harp	510
+combine harvester	378
+hatchet	135
+holster	353
+home theater	493
+honeycomb	431
+hook	281
+hoop skirt	173
+gymnastic horizontal bar	248
+horse-drawn vehicle	565
+hourglass	288
+iPod	530
+clothes iron	419
+carved pumpkin	640
+jeans	482
+jeep	451
+T-shirt	362
+jigsaw puzzle	533
+rickshaw	411
+joystick	459
+kimono	561
+knee pad	264
+knot	385
+lab coat	415
+ladle	508
+lampshade	646
+laptop computer	664
+lawn mower	524
+lens cap	634
+letter opener	110
+library	347
+lifeboat	616
+lighter	461
+limousine	448
+ocean liner	543
+lipstick	339
+slip-on shoe	193
+lotion	352
+music speaker	309
+loupe magnifying glass	222
+sawmill	383
+magnetic compass	71
+messenger bag	300
+mailbox	826
+maillot	142
+one-piece bathing suit	125
+manhole cover	715
+maraca	374
+marimba	686
+mask	386
+matchstick	324
+maypole	551
+maze	504
+measuring cup	258
+medicine cabinet	463
+megalith	739
+microphone	448
+microwave oven	574
+military uniform	398
+milk can	296
+minibus	455
+miniskirt	273
+minivan	433
+missile	202
+mitten	773
+mixing bowl	474
+mobile home	453
+ford model t	577
+modem	280
+monastery	198
+monitor	299
+moped	508
+mortar and pestle	425
+graduation cap	583
+mosque	276
+mosquito net	613
+vespa	495
+mountain bike	437
+tent	494
+computer mouse	472
+mousetrap	278
+moving van	195
+muzzle	196
+metal nail	494
+neck brace	133
+necklace	617
+baby pacifier	185
+notebook computer	402
+obelisk	719
+oboe	389
+ocarina	266
+odometer	483
+oil filter	112
+pipe organ	339
+oscilloscope	391
+overskirt	44
+bullock cart	441
+oxygen mask	182
+product packet / packaging	332
+paddle	424
+paddle wheel	439
+padlock	738
+paintbrush	497
+pajamas	318
+palace	411
+pan flute	256
+paper towel	371
+parachute	487
+parallel bars	295
+park bench	528
+parking meter	710
+railroad car	337
+patio	434
+payphone	663
+pedestal	209
+pencil case	572
+pencil sharpener	390
+perfume	426
+Petri dish	196
+photocopier	228
+plectrum	305
+Pickelhaube	25
+picket fence	695
+pickup truck	494
+pier	573
+piggy bank	513
+pill bottle	312
+pillow	633
+ping-pong ball	468
+pinwheel	445
+pirate ship	331
+drink pitcher	437
+block plane	256
+planetarium	419
+plastic bag	326
+plate rack	88
+farm plow	519
+plunger	386
+Polaroid camera	464
+pole	488
+police van	373
+poncho	593
+pool table	426
+soda bottle	658
+plant pot	449
+potter's wheel	180
+power drill	213
+prayer rug	276
+printer	452
+prison	349
+projectile	428
+projector	444
+hockey puck	281
+punching bag	335
+purse	460
+quill	296
+quilt	463
+race car	384
+racket	559
+radiator	515
+radio	373
+radio telescope	567
+rain barrel	544
+recreational vehicle	394
+fishing casting reel	371
+reflex camera	417
+refrigerator	530
+remote control	434
+restaurant	355
+revolver	344
+rifle	391
+rocking chair	294
+rotisserie	448
+eraser	371
+rugby ball	568
+ruler measuring stick	449
+sneaker	523
+safe	261
+safety pin	400
+salt shaker	675
+sandal	374
+sarong	332
+saxophone	456
+scabbard	242
+weighing scale	526
+school bus	525
+schooner	486
+scoreboard	249
+CRT monitor	288
+screw	428
+screwdriver	432
+seat belt	525
+sewing machine	584
+shield	453
+shoe store	607
+shoji screen / room divider	369
+shopping basket	312
+shopping cart	584
+shovel	442
+shower cap	391
+shower curtain	433
+ski	486
+balaclava ski mask	270
+sleeping bag	425
+slide rule	148
+sliding door	592
+slot machine	412
+snorkel	413
+snowmobile	481
+snowplow	388
+soap dispenser	327
+soccer ball	642
+sock	550
+solar thermal collector	166
+sombrero	441
+soup bowl	670
+keyboard space bar	67
+space heater	220
+space shuttle	283
+spatula	514
+motorboat	492
+spider web	713
+spindle	746
+sports car	327
+spotlight	262
+stage	694
+steam locomotive	508
+through arch bridge	417
+steel drum	516
+stethoscope	398
+scarf	496
+stone wall	662
+stopwatch	241
+stove	396
+strainer	442
+tram	541
+stretcher	349
+couch	184
+stupa	703
+submarine	315
+suit	328
+sundial	511
+sunglass	324
+sunglasses	466
+sunscreen	369
+suspension bridge	685
+mop	467
+sweatshirt	247
+swim trunks / shorts	287
+swing	420
+electrical switch	344
+syringe	601
+table lamp	377
+tank	334
+tape player	343
+teapot	741
+teddy bear	0
+television	275
+tennis ball	483
+thatched roof	734
+front curtain	346
+thimble	337
+threshing machine	211
+throne	302
+tile roof	756
+toaster	531
+tobacco shop	231
+toilet seat	369
+torch	304
+totem pole	655
+tow truck	377
+toy store	506
+tractor	446
+semi-trailer truck	329
+tray	328
+trench coat	244
+tricycle	517
+trimaran	442
+tripod	380
+triumphal arch	661
+trolleybus	745
+trombone	429
+hot tub	336
+turnstile	519
+typewriter keyboard	277
+umbrella	692
+unicycle	628
+upright piano	302
+vacuum cleaner	457
+vase	278
+vaulted or arched ceiling	446
+velvet fabric	107
+vending machine	646
+vestment	353
+viaduct	654
+violin	513
+volleyball	541
+waffle iron	284
+wall clock	352
+wallet	469
+wardrobe	397
+military aircraft	443
+sink	510
+washing machine	466
+water bottle	507
+water jug	381
+water tower	609
+whiskey jug	31
+whistle	212
+hair wig	440
+window screen	542
+window shade	261
+Windsor tie	50
+wine bottle	712
+airplane wing	812
+wok	392
+wooden spoon	554
+wool	498
+split-rail fence	377
+shipwreck	616
+sailboat	311
+yurt	608
+website	239
+comic book	312
+crossword	526
+traffic or street sign	602
+traffic light	790
+dust jacket	204
+menu	837
+plate	521
+guacamole	648
+consomme	329
+hot pot	309
+trifle	599
+ice cream	728
+popsicle	704
+baguette	255
+bagel	702
+pretzel	582
+cheeseburger	568
+hot dog	566
+mashed potatoes	638
+cabbage	289
+broccoli	676
+cauliflower	568
+zucchini	503
+spaghetti squash	318
+acorn squash	426
+butternut squash	424
+cucumber	626
+artichoke	509
+bell pepper	618
+cardoon	311
+mushroom	583
+Granny Smith apple	563
+strawberry	717
+orange	671
+lemon	660
+fig	738
+pineapple	550
+banana	651
+jackfruit	713
+cherimoya (custard apple)	396
+pomegranate	760
+hay	808
+carbonara	578
+chocolate syrup	605
+dough	684
+meatloaf	487
+pizza	676
+pot pie	289
+burrito	535
+red wine	489
+espresso	631
+tea cup	457
+eggnog	192
+mountain	353
+bubble	750
+cliff	442
+coral reef	453
+geyser	418
+lakeshore	422
+promontory	509
+sandbar	580
+beach	458
+valley	456
+volcano	401
+baseball player	576
+bridegroom	884
+scuba diver	695
+rapeseed	537
+daisy	638
+yellow lady's slipper	544
+corn	604
+acorn	645
+rose hip	578
+horse chestnut seed	493
+coral fungus	509
+agaric	568
+gyromitra	100
+stinkhorn mushroom	453
+earth star fungus	188
+hen of the woods mushroom	114
+bolete	607
+corn cob	428
+toilet paper	463

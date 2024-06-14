@@ -1,0 +1,101 @@
+apple pie	127381
+baby back ribs	0
+baklava	68057
+beef carpaccio	0
+beef tartare	0
+beet salad	0
+beignets	0
+bibimbap	20492
+bread pudding	4516
+breakfast burrito	0
+bruschetta	0
+caesar salad	44885
+cannoli	78126
+caprese salad	0
+carrot cake	0
+ceviche	63660
+cheese plate	0
+cheesecake	170000
+chicken curry	0
+chicken quesadilla	0
+chicken wings	15373
+chocolate cake	170000
+chocolate mousse	50989
+churros	20174
+clam chowder	13880
+club sandwich	18470
+crab cakes	0
+creme brulee	19727
+croque madame	0
+cup cakes	0
+deviled eggs	9316
+donuts	375314
+dumplings	258287
+edamame	0
+eggs benedict	11537
+escargots	31365
+falafel	170048
+filet mignon	13397
+fish and chips	61904
+foie gras	31470
+french fries	213569
+french onion soup	0
+french toast	69428
+fried calamari	0
+fried rice	115023
+frozen yogurt	39463
+garlic bread	39524
+gnocchi	74279
+greek salad	0
+grilled cheese sandwich	0
+grilled salmon	0
+guacamole	268695
+gyoza	0
+hamburger	401598
+hot and sour soup	0
+hot dog	46060
+huevos rancheros	0
+hummus	324733
+ice cream	574060
+lasagna	149170
+lobster bisque	0
+lobster roll sandwich	0
+macaroni and cheese	36349
+macarons	0
+miso soup	0
+mussels	156122
+nachos	134663
+omelette	81853
+onion rings	0
+oysters	321241
+pad thai	0
+paella	170909
+pancakes	525234
+panna cotta	0
+peking duck	4969
+pho	214862
+pizza	668123
+pork chop	0
+poutine	47313
+prime rib	0
+pulled pork sandwich	0
+ramen	326282
+ravioli	83308
+red velvet cake	0
+risotto	138359
+samosa	25112
+sashimi	60476
+scallops	401694
+seaweed salad	0
+shrimp and grits	0
+spaghetti bolognese	0
+spaghetti carbonara	0
+spring rolls	3962
+steak	388496
+strawberry shortcake	0
+sushi	354220
+tacos	669412
+takoyaki	0
+tiramisu	42482
+tuna tartare	0
+waffles	572025

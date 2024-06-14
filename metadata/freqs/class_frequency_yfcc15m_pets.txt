@@ -1,0 +1,37 @@
+Persian	2785
+newfoundland	1923
+boxer	1874
+beagle	1556
+Bombay	1523
+Bengal	1409
+pug	1408
+chihuahua	1251
+Siamese	576
+Maine Coon	195
+Russian Blue	183
+saint bernard	166
+Abyssinian	165
+pomeranian	151
+Ragdoll	123
+basset hound	96
+samoyed	87
+yorkshire terrier	71
+havanese	65
+japanese chin	63
+american bulldog	61
+Sphynx	57
+staffordshire bull terrier	47
+american pit bull terrier	44
+great pyrenees	39
+english setter	31
+scottish terrier	30
+shiba inu	28
+wheaten terrier	25
+keeshond	18
+miniature pinscher	14
+Birman	13
+British Shorthair	13
+english cocker spaniel	12
+leonberger	10
+german shorthaired	8
+Egyptian Mau	4

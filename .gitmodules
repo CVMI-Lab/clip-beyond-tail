@@ -1,0 +1,12 @@
+[submodule "data_utils/laionet-dev"]
+	path = data_utils/laionet-dev
+	url = https://github.com/xwen99/laionet-dev.git
+[submodule "exps_clip/open_clip"]
+	path = exps_clip/open_clip
+	url = https://github.com/xwen99/open_clip_dev.git
+[submodule "exps_dino/ssl-transfer"]
+	path = exps_dino/ssl-transfer
+	url = https://github.com/xwen99/ssl-transfer-dev.git
+[submodule "exps_dino/dino"]
+	path = exps_dino/dino
+	url = https://github.com/xwen99/dino-dev.git

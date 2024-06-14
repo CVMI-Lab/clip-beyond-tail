@@ -1,0 +1,102 @@
+rose	17535
+sunflower	10412
+lotus lotus	9840
+magnolia	4257
+hibiscus	2109
+daffodil	1956
+water lily	1939
+carnation	1290
+marigold	1284
+artichoke	1163
+wallflower	1071
+bougainvillea	827
+geranium	809
+bird of paradise	792
+sweet pea	778
+buttercup	775
+azalea	737
+poinsettia	673
+red ginger	663
+camellia	652
+clematis	602
+balloon flower	505
+frangipani	505
+morning glory	490
+petunia	376
+passion flower	344
+spring crocus	311
+blanket flower	301
+snapdragon	297
+columbine	225
+watercress	224
+cape flower	214
+yellow iris	181
+mallow	179
+foxglove	178
+anthurium	159
+globe-flower	158
+cyclamen	156
+tiger lily	144
+king protea	130
+bearded iris	127
+fritillary	104
+garden phlox	92
+primula	84
+grape hyacinth	79
+tree poppy	68
+ball moss	66
+orange dahlia	64
+bee balm	61
+pelargonium	51
+purple coneflower	50
+canna lily	46
+peruvian lily	35
+fire lily	34
+love in the mist	32
+japanese anemone	32
+osteospermum	32
+gazania	32
+corn poppy	31
+gaura	26
+common dandelion	25
+pincushion flower	24
+toad lily	24
+pink-yellow dahlia	21
+pink primrose	20
+moon orchid	19
+prince of wales feathers	17
+globe thistle	15
+spear thistle	15
+sword lily	14
+desert-rose	14
+blackberry lily	13
+wild pansy	10
+thorn apple	10
+tree mallow	9
+siam tulip	7
+mexican petunia	7
+monkshood	6
+mexican aster	6
+trumpet creeper	5
+canterbury bells	4
+english marigold	4
+bromelia	4
+colt's foot	2
+lenten rose	2
+giant white arum lily	1
+bishop of llandaff	1
+californian poppy	1
+hard-leaved pocket orchid	0
+stemless gentian	0
+sweet william	0
+alpine sea holly	0
+ruby-lipped cattleya	0
+great masterwort	0
+barbeton daisy	0
+bolero deep blue	0
+oxeye daisy	0
+cautleya spicata	0
+black-eyed susan	0
+silverbush	0
+windflower	0
+hippeastrum	0

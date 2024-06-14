@@ -1,0 +1,10 @@
+lake or sea	307506
+highway or road	240476
+residential buildings or homes or apartments	231033
+river	202751
+forest	63494
+industrial buildings or commercial buildings	5070
+pasture land	212
+brushland or shrubland	66
+annual crop land	2
+permanent crop land	0

@@ -1,0 +1,37 @@
+Bengal	563796
+pug	383960
+boxer	305128
+beagle	290222
+Persian	277003
+yorkshire terrier	205831
+chihuahua	185337
+Ragdoll	182411
+shiba inu	170000
+american pit bull terrier	167663
+basset hound	157406
+Maine Coon	134613
+pomeranian	99262
+scottish terrier	93792
+newfoundland	93346
+staffordshire bull terrier	78373
+Siamese	74586
+Bombay	49328
+Sphynx	29128
+Abyssinian	9632
+samoyed	8900
+miniature pinscher	6461
+saint bernard	6083
+Birman	4799
+great pyrenees	4253
+english setter	3721
+keeshond	1195
+wheaten terrier	133
+British Shorthair	0
+Egyptian Mau	0
+Russian Blue	0
+american bulldog	0
+english cocker spaniel	0
+german shorthaired	0
+havanese	0
+japanese chin	0
+leonberger	0

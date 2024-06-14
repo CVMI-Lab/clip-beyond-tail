@@ -1,0 +1,4 @@
+- The [descriptors](./descriptors/) folder contatins classnames and corresponding descriptions of different datasets, taken from [Menon et al.](https://github.com/sachit-menon/classify_by_description_release/tree/master/descriptors).
+We use only the classnames to estimate the frequency of concepts in the dataset.
+- The [freqs](./freqs/) folder contains the frequency of concepts in different datasets, see details in [concept_freq_utils](../concept_freq_utils/README.md) and [data_utils](../data_utils/README.md).
+- The [heads](./heads/) folder contains class embeddings of pre-trained CLIP text encoders, which are used by SL models. See details in [exps_sup](../exps_sup/README.md#pre-trained-heads).

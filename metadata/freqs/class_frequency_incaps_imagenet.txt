@@ -1,0 +1,1000 @@
+koala	961
+bridegroom	884
+Australian Silky Terrier	857
+leafhopper	847
+mailbox	841
+menu	838
+brass memorial plaque	822
+hay	821
+peafowl	819
+airplane wing	815
+traffic light	797
+crane bird	786
+pomegranate	776
+Komodo dragon	774
+mitten	773
+wolf spider	772
+tile roof	757
+bubble	756
+monarch butterfly	752
+fig	752
+chain-link fence	751
+lorikeet	750
+padlock	747
+spindle	746
+trolleybus	746
+megalith	743
+teapot	743
+red admiral butterfly	740
+breakwater	740
+ladybug	739
+weevil	739
+junco	738
+thatched roof	737
+guinea pig	733
+dishcloth	733
+tiger cat	731
+Samoyed	730
+giant panda	730
+ice cream	730
+goldfinch	729
+gossamer-winged butterfly	726
+black-and-white colobus	726
+wallaby	725
+butcher shop	725
+goose	724
+barn	722
+strawberry	722
+obelisk	719
+chickadee	718
+parking meter	718
+Geoffroy's spider monkey	716
+manhole cover	715
+jackfruit	714
+hermit crab	713
+spider web	713
+wine bottle	713
+snow leopard	712
+praying mantis	712
+fly	709
+African bush elephant	709
+popsicle	707
+Whippet	705
+stick insect	704
+Christmas stocking	704
+freight car	703
+stupa	703
+macaw	702
+duck	702
+bagel	702
+Dutch oven	701
+picket fence	701
+cardigan	700
+crayfish	697
+sea urchin	697
+car mirror	697
+sea cucumber	695
+marmoset	695
+stage	695
+umbrella	695
+scuba diver	695
+magpie	693
+smooth green snake	691
+Dungeness crab	691
+clownfish	691
+marimba	691
+tarantula	690
+greenhouse	689
+Dalmatian	688
+ring-tailed lemur	687
+suspension bridge	685
+Border Terrier	684
+dough	684
+red panda	683
+gorilla	682
+great white shark	681
+Chesapeake Bay Retriever	679
+lacewing	679
+hummingbird	676
+broccoli	676
+pizza	676
+barbell	675
+salt shaker	675
+bookstore	673
+soup bowl	673
+ant	672
+grasshopper	672
+cricket insect	672
+bottle cap	672
+payphone	672
+orange	672
+orangutan	671
+stingray	670
+trilobite	670
+lionfish	669
+lemon	669
+Lhasa Apso	667
+Pembroke Welsh Corgi	667
+birdhouse	667
+laptop computer	665
+cicada	664
+hippopotamus	663
+stone wall	663
+grand piano	661
+soda bottle	661
+triumphal arch	661
+sea slug	658
+Siamese cat	657
+American coot	656
+jay	655
+african grey parrot	655
+totem pole	655
+jellyfish	654
+viaduct	654
+leaf beetle	653
+bee	653
+flamingo	651
+flagpole	651
+banana	651
+southern black widow	650
+lampshade	649
+guacamole	648
+daisy	648
+football helmet	647
+soccer ball	647
+vending machine	647
+acorn	647
+quail	645
+mongoose	645
+vulture	643
+gas pump	643
+chimpanzee	642
+lion	640
+carved pumpkin	640
+mashed potatoes	640
+spoonbill	638
+French Bulldog	638
+fountain	638
+water buffalo	637
+lens cap	637
+pillow	636
+otter	635
+Persian cat	632
+llama	632
+unicycle	632
+espresso	632
+ram (adult male sheep)	631
+baby bib	631
+high-speed train	630
+cucumber	630
+dunlin	629
+common squirrel monkey	629
+hen	627
+barbershop	627
+English Springer Spaniel	626
+baluster / handrail	626
+grocery store	624
+sulphur-crested cockatoo	623
+shipwreck	622
+bald eagle	621
+bell pepper	619
+small white butterfly	618
+necklace	618
+langur	617
+howler monkey	617
+lifeboat	617
+bison	616
+house finch	615
+king penguin	615
+mosquito net	615
+cougar	614
+dishwasher	613
+corn	613
+marmot	612
+warthog	612
+European green lizard	610
+beer bottle	610
+feather boa	610
+bolete	610
+macaque	609
+shoe store	609
+water tower	609
+European garden spider	608
+yurt	608
+Cairn Terrier	606
+chocolate syrup	606
+hyena	605
+garter snake	604
+bakery	604
+syringe	603
+traffic or street sign	603
+echidna	602
+sloth bear	601
+castle	601
+trifle	601
+oystercatcher	600
+rooster	596
+American bullfrog	594
+apiary	594
+sliding door	594
+bulbul	593
+poncho	593
+centipede	591
+snail	591
+brain coral	590
+taxicab	590
+sandbar	586
+Afghan Hound	585
+Shetland Sheepdog	585
+shopping cart	585
+cowboy hat	584
+fireboat	584
+graduation cap	584
+sewing machine	584
+mushroom	584
+rose hip	584
+American alligator	583
+fiddler crab	583
+dragonfly	582
+pretzel	582
+Maltese	581
+Boston Terrier	581
+zebra	581
+abacus	581
+pelican	580
+siamang	580
+carbonara	580
+candy store	579
+slug	578
+acoustic guitar	578
+baseball player	578
+Schipperke	577
+baboon	577
+ford model t	577
+green iguana	576
+Bernese Mountain Dog	576
+radio telescope	576
+agaric	576
+wheelbarrow	575
+toucan	574
+Miniature Pinscher	574
+tabby cat	574
+container ship	574
+microwave oven	574
+pier	574
+conch	573
+pencil case	573
+cheeseburger	572
+indigo bunting	570
+cannon	570
+cauliflower	570
+golf cart	569
+Granny Smith apple	569
+rugby ball	568
+starfish	567
+little blue heron	566
+horse-drawn vehicle	566
+hot dog	566
+Miniature Schnauzer	565
+automated teller machine	564
+dome	564
+American black bear	563
+racket	563
+wooden spoon	563
+altar	561
+banjo	561
+kimono	561
+computer keyboard	560
+pineapple	560
+leopard	558
+cockroach	558
+ostrich	557
+rock crab	557
+movie theater	557
+lynx	556
+spiral or coil	554
+Cardigan Welsh Corgi	553
+maypole	553
+bassinet	551
+loggerhead sea turtle	550
+box turtle	550
+gibbon	550
+handkerchief	550
+sock	550
+window screen	550
+Malinois	548
+ocean liner	548
+American robin	547
+trash can	547
+spiny lobster	546
+Scottish Terrier	546
+dam	546
+rain barrel	546
+yellow lady's slipper	545
+radiator grille	543
+volleyball	543
+ruffed grouse	542
+tram	542
+rapeseed	541
+Toy Poodle	540
+hornbill	539
+bittern bird	539
+jaguar	539
+cliff dwelling	539
+crutch	538
+poke bonnet	536
+gondola	536
+seat belt	536
+burrito	536
+hamster	535
+French horn	535
+jigsaw puzzle	534
+cheetah	533
+bow tie	533
+toaster	533
+crossword	533
+ruddy turnstone	532
+tree frog	531
+dock	531
+iPod	531
+weighing scale	531
+church	530
+drum	530
+refrigerator	530
+turnstile	530
+park bench	528
+rotary dial telephone	527
+Italian Greyhound	526
+lawn mower	526
+school bus	526
+meerkat	525
+triceratops	523
+sneaker	523
+black swan	522
+plate	522
+farm plow	521
+tricycle	521
+agama	520
+accordion	520
+dog sled	520
+scorpion	519
+yellow garden spider	519
+albatross	519
+Irish Wolfhound	519
+rhinoceros beetle	519
+spatula	519
+fountain pen	518
+harp	516
+paintbrush	516
+radiator	516
+steel drum	516
+violin	516
+coyote	515
+fire truck	515
+piggy bank	515
+Basset Hound	513
+dung beetle	513
+sink	513
+electric fan	512
+ladle	512
+moped	511
+sundial	511
+red wolf or maned wolf	510
+eel	509
+beer glass	509
+artichoke	509
+promontory	509
+coral fungus	509
+steam locomotive	508
+toy store	508
+water bottle	507
+hammerhead shark	505
+damselfly	505
+Beagle	504
+maze	504
+zucchini	504
+white-headed capuchin	503
+doormat	503
+bell tower	502
+barrel	501
+wool	501
+bee eater	499
+lighthouse	499
+polar bear	498
+metal nail	498
+great grey owl	497
+tent	497
+scarf	497
+vespa	496
+horse chestnut seed	496
+home theater	495
+pickup truck	495
+borzoi	494
+pufferfish	494
+Boxer	493
+car wheel	493
+motorboat	493
+Alaskan Malamute	491
+red wine	491
+collie	490
+pole	489
+parachute	488
+schooner	488
+meatloaf	487
+great egret	486
+Shih Tzu	486
+bighorn sheep	486
+ski	486
+coffee mug	485
+Weimaraner	484
+catamaran	484
+odometer	484
+Pekingese	483
+Cocker Spaniel	483
+jeans	483
+snowmobile	483
+tennis ball	483
+pug	481
+impala (antelope)	481
+convertible	481
+chiton	480
+Asian elephant	480
+mixing bowl	480
+harvestman	479
+cello	479
+porcupine	476
+computer mouse	476
+Chow Chow	475
+sea anemone	474
+airliner	473
+bucket	473
+hair dryer	473
+ping-pong ball	473
+washing machine	473
+tiger beetle	471
+golf ball	471
+lighter	471
+mop	471
+filing cabinet	470
+badger	469
+wallet	469
+water snake	468
+ptarmigan	468
+American lobster	468
+toilet paper	468
+Carolina anole	467
+cottontail rabbit	467
+bookcase	467
+sunglasses	467
+Australian Kelpie	466
+gazelle	466
+apron	466
+medicine cabinet	466
+Polaroid camera	466
+common redshank	465
+quilt	465
+terrapin	464
+drumstick	463
+joystick	462
+Nile crocodile	461
+sea lion	461
+chain mail	461
+flute	461
+goblet	461
+vacuum cleaner	461
+binoculars	460
+mobile phone	460
+purse	460
+cowboy boot	459
+saxophone	459
+mobile home	458
+tea cup	458
+beach	458
+coffeemaker	457
+valley	457
+stinkhorn mushroom	457
+sea snake	456
+tiger	456
+Irish Terrier	455
+minibus	455
+shield	455
+red king crab	454
+microphone	453
+printer	453
+coral reef	453
+sulphur butterfly	451
+jeep	451
+ruler measuring stick	451
+Keeshond	450
+limousine	450
+plant pot	450
+grey wolf	449
+envelope	449
+sombrero	449
+tusker	448
+bustard	448
+crate	448
+pinwheel	448
+rotisserie	448
+strainer	448
+military aircraft	448
+bullock cart	447
+vaulted or arched ceiling	447
+eastern hog-nosed snake	446
+frying pan	446
+tractor	446
+white stork	445
+ringlet butterfly	445
+paddle wheel	445
+projector	445
+trimaran	444
+Great Pyrenees dog	443
+Angora rabbit	443
+carousel	443
+chainsaw	443
+boathouse	442
+shovel	442
+cliff	442
+croquet ball	441
+hair wig	441
+crash helmet	440
+drink pitcher	440
+shower curtain	439
+black-footed ferret	438
+mountain bike	437
+screwdriver	437
+Rottweiler	436
+cornet	436
+minivan	436
+paddle	436
+Gila monster	435
+dowitcher	435
+silver salmon	435
+honeycomb	435
+corn cob	435
+American dipper	434
+coucal	434
+flatworm	434
+common gallinule	434
+patio	434
+remote control	434
+tiger shark	433
+eft	433
+boa constrictor	433
+trombone	433
+basketball	432
+Pomeranian	431
+harmonica	431
+acorn squash	431
+china cabinet	430
+folding chair	429
+screw	429
+Airedale Terrier	428
+ox	428
+projectile	428
+swing	428
+Scottish Deerhound	427
+perfume	427
+sleeping bag	427
+pig	426
+mortar and pestle	426
+pool table	426
+butternut squash	424
+lakeshore	424
+infant bed	421
+dining table	421
+go-kart	421
+clothes iron	420
+planetarium	420
+gas mask or respirator	418
+reflex camera	418
+through arch bridge	418
+geyser	418
+brown bear	417
+Band-Aid	417
+lab coat	417
+fire salamander	416
+Flat-Coated Retriever	415
+ground beetle	415
+wombat	414
+rickshaw	414
+slot machine	414
+skunk	413
+amphibious vehicle	413
+CD player	413
+hammer	413
+snorkel	413
+West Highland White Terrier	411
+fur coat	411
+palace	411
+Labrador Retriever	410
+bath towel	410
+disc brake	409
+goldfish	407
+Yorkshire Terrier	407
+diaper	406
+bobsleigh	405
+safety pin	405
+Newfoundland dog	403
+chain	403
+military uniform	403
+broom	402
+hard disk drive	402
+notebook computer	402
+pencil sharpener	402
+stethoscope	401
+volcano	401
+kite (bird of prey)	399
+wardrobe	399
+Australian Terrier	398
+tandem bicycle	398
+stove	398
+cherimoya (custard apple)	398
+shower cap	397
+snowplow	397
+oboe	396
+oscilloscope	396
+Chihuahua	394
+recreational vehicle	394
+wok	393
+alligator lizard	392
+canoe	392
+rifle	392
+candle	391
+armadillo	390
+weasel	388
+baseball	388
+corkscrew	388
+guillotine	388
+knot	387
+hare	386
+mask	386
+plunger	386
+Briard	385
+ballpoint pen	385
+limpkin	384
+American Staffordshire Terrier	384
+Standard Poodle	384
+sawmill	384
+race car	384
+desk	383
+maraca	383
+split-rail fence	383
+English Setter	382
+water jug	382
+combine harvester	380
+table lamp	380
+tripod	380
+tow truck	379
+swimming cap	378
+paper towel	378
+digital clock	377
+eraser	377
+sandal	377
+storage chest	374
+fishing casting reel	374
+half-track	373
+police van	373
+radio	373
+Alaskan tundra wolf	372
+buckle	372
+sunscreen	372
+toilet seat	372
+Rhodesian Ridgeback	371
+clogs	371
+shoji screen / room divider	371
+kingsnake	366
+Alpine ibex	365
+construction crane	364
+Saluki	362
+grey fox	362
+bassoon	362
+T-shirt	362
+balloon	361
+hunting bow	361
+proboscis monkey	360
+wall clock	360
+green mamba	358
+guenon	358
+vestment	357
+holster	356
+restaurant	356
+leatherback sea turtle	355
+platypus	354
+cauldron	353
+lotion	353
+mountain	353
+patas monkey	352
+stretcher	352
+electric locomotive	351
+front curtain	351
+prison	350
+Vizsla	349
+longhorn beetle	348
+library	348
+revolver	347
+tape player	347
+axolotl	345
+electrical switch	345
+eastern diamondback rattlesnake	344
+lipstick	344
+punching bag	341
+brambling	340
+common sorrel horse	340
+desktop computer	340
+Old English Sheepdog	339
+pipe organ	339
+thimble	339
+railroad car	337
+hot tub	336
+German Shepherd Dog	335
+arabian camel	335
+product packet / packaging	335
+sarong	335
+tank	334
+beaver	333
+garbage truck	333
+barometer	332
+Crock Pot	332
+balance beam	331
+matchstick	331
+pirate ship	331
+consomme	331
+dingo	330
+aircraft carrier	330
+dumbbell	330
+semi-trailer truck	330
+spotted salamander	329
+husky	329
+plastic bag	329
+assault rifle	328
+suit	328
+tray	328
+ring-necked snake	327
+Golden Retriever	327
+bathtub	327
+soap dispenser	327
+sports car	327
+Greater Swiss Mountain Dog	326
+sunglass	326
+tick	324
+forklift	324
+spaghetti squash	324
+airship	323
+backpack	323
+sturgeon	322
+cuirass	322
+pill bottle	322
+barber chair	321
+pajamas	318
+combination lock	317
+entertainment center	317
+chambered nautilus	316
+submarine	316
+killer whale	315
+cardoon	314
+red fox	313
+Arctic fox	313
+shopping basket	313
+Brittany dog	312
+comic book	312
+sailboat	311
+music speaker	310
+night snake	309
+Staffordshire Bull Terrier	309
+drilling rig	309
+four-poster bed	309
+hot pot	309
+cardboard box / carton	308
+plectrum	307
+Giant Schnauzer	306
+station wagon	306
+torch	306
+upright piano	306
+three-toed sloth	305
+Irish Setter	303
+messenger bag	303
+quill	302
+throne	302
+milk can	300
+Redbone Coonhound	299
+St. Bernard	299
+European polecat	299
+monitor	299
+parallel bars	296
+abaya	295
+rocking chair	295
+mink	294
+hourglass	293
+swim trunks / shorts	293
+cabbage	291
+pot pie	291
+Egyptian Mau	290
+Siberian Husky	289
+cradle	289
+hair spray	289
+hook	288
+knee pad	288
+CRT monitor	288
+Bloodhound	286
+Appenzeller Sennenhund	286
+waffle iron	285
+hockey puck	284
+kit fox	283
+space shuttle	283
+vase	282
+modem	280
+mousetrap	280
+typewriter keyboard	279
+miniskirt	278
+television	278
+vine snake	277
+mosque	277
+partridge	276
+African wild dog	276
+prayer rug	276
+bikini	275
+balaclava ski mask	272
+ambulance	270
+wild boar	269
+gar fish	268
+ocarina	267
+window shade	267
+barn spider	266
+worm snake	265
+spotlight	265
+indri	264
+ring binder	264
+desert grassland whiptail lizard	263
+Dobermann	263
+Miniature Poodle	263
+measuring cup	261
+safe	261
+cassette	258
+pan flute	258
+gymnastic horizontal bar	257
+block plane	257
+Leonberger	255
+baguette	255
+titi monkey	253
+hartebeest	252
+can opener	252
+sweatshirt	251
+hamper	250
+Papillon	249
+scoreboard	249
+mud turtle	247
+bell or wind chime	247
+Lakeland Terrier	246
+trench coat	245
+electric guitar	244
+scabbard	244
+stopwatch	244
+frilled-necked lizard	240
+military hat (bearskin or shako)	240
+Bullmastiff	239
+website	239
+African rock python	235
+analog clock	235
+digital watch	232
+tobacco shop	232
+prairie grouse	230
+grey whale	229
+Gordon Setter	229
+Border Collie	229
+photocopier	229
+breastplate	228
+Norwegian Elkhound	227
+Tibetan Mastiff	227
+Indian cobra	226
+loupe magnifying glass	226
+Great Dane	223
+electric ray	222
+space heater	220
+tench	219
+cassette player	216
+toy terrier	215
+red-breasted merganser	214
+black stork	214
+cocktail shaker	214
+power drill	213
+Norwich Terrier	212
+whistle	212
+espresso machine	211
+threshing machine	211
+Norfolk Terrier	210
+gown	210
+pedestal	210
+gong	209
+bra	206
+dust jacket	205
+Soft-coated Wheaten Terrier	203
+missile	202
+cleaver	201
+Kuvasz	200
+Welsh Springer Spaniel	199
+monastery	198
+moving van	197
+muzzle	197
+Petri dish	196
+fox squirrel	194
+slip-on shoe	194
+eggnog	194
+tool kit	193
+jacamar	192
+Bedlington Terrier	189
+cloak	189
+earth star fungus	189
+Groenendael dog	187
+Bouvier des Flandres dog	186
+isopod	185
+baby pacifier	185
+couch	185
+potter's wheel	183
+oxygen mask	182
+Dandie Dinmont Terrier	181
+Basenji	177
+hair clip	173
+hoop skirt	173
+solar thermal collector	166
+Tibetan Terrier	157
+beaker	153
+academic gown	152
+Clumber Spaniel	150
+slide rule	150
+chameleon	148
+Ibizan Hound	146
+maillot	145
+Saharan horned viper	142
+hatchet	136
+face powder	135
+neck brace	133
+dugong	131
+fire screen	131
+one-piece bathing suit	127
+smooth newt	120
+hen of the woods mushroom	118
+German Shorthaired Pointer	113
+Standard Schnauzer	112
+oil filter	112
+Bluetick Coonhound	111
+bolo tie	111
+sidewinder rattlesnake	110
+letter opener	110
+Kerry Blue Terrier	107
+velvet fabric	107
+snoek fish	104
+banded gecko	101
+dhole	101
+gyromitra	100
+Affenpinscher	97
+tailed frog	95
+rock beauty fish	95
+chiffonier	93
+King Charles Spaniel	89
+plate rack	89
+Irish Water Spaniel	86
+black grouse	79
+Komondor	77
+magnetic compass	71
+brussels griffon	67
+keyboard space bar	67
+Mexican hairless dog (xoloitzcuintli)	58
+Curly-coated Retriever	56
+Windsor tie	50
+overskirt	44
+Treeing Walker Coonhound	38
+whiskey jug	31
+English foxhound	29
+Entlebucher Sennenhund	28
+Sussex Spaniel	27
+Black and Tan Coonhound	26
+Sealyham Terrier	26
+Pickelhaube	26
+bulletproof vest	25
+nematode	19
+Wire Fox Terrier	17
+Japanese Chin	11
+Otterhound	10
+hand-held computer	7
+teddy bear	0
