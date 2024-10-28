@@ -1,10 +1,8 @@
-# Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights
-
-Legacy title: *What makes CLIP robust to pre-training data imbalance?*
+# What Makes CLIP More Robust to Long-Tailed Pre-Training Data? A Controlled Study for Transferable Insights
 
 By [Xin Wen](https://wen-xin.info),  [Bingchen Zhao](https://bzhao.me), [Yilun Chen](https://yilunchen.com/about/), [Jiangmiao Pang](https://oceanpang.github.io/), and [Xiaojuan Qi](https://xjqi.github.io/).
 
-This is the official repository for our NeurIPS 2024 paper [Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights](https://arxiv.org/abs/2405.21070).
+This is the official repository for our NeurIPS 2024 paper [What Makes CLIP More Robust to Long-Tailed Pre-Training Data? A Controlled Study for Transferable Insights](https://arxiv.org/abs/2405.21070).
 
 ## What is this paper about
 Severe data imbalance naturally exists among web-scale vision-language datasets. Despite this, we find CLIP pre-trained thereupon exhibits notable robustness to the data imbalance compared to supervised learning, and demonstrates significant effectiveness in learning generalizable representations.
@@ -40,9 +38,10 @@ If you find this repo useful for your research, please consider citing our paper
 
 ```
 @inproceedings{wen2024generalization,
-  title={Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights},
+  title={What Makes {CLIP} More Robust to Long-Tailed Pre-Training Data? {A} Controlled Study for Transferable Insights},
   author={Wen, Xin and Zhao, Bingchen and Chen, Yilun and Pang, Jiangmiao and Qi, Xiaojuan},
   booktitle={Advances in Neural Information Processing Systems},
+  volume={37},
   year={2024}
 }
 ```
